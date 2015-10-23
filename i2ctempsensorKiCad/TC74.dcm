@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: 6/8/2008-19:04:25
+#
+$CMP TC74_SOT-23
+D http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en010749
+K tc74
+F ww1.microchip.com/downloads/en/devicedoc/21462c.pdf
+$ENDCMP
+#
+$CMP TC74_TO-220
+D http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en010749
+K tc74
+F ww1.microchip.com/downloads/en/devicedoc/21462c.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name VorlagenModul-cache-orig-2)(type Legacy)(uri "$(KIPRJMOD)\\5-pinto-220\\VorlagenModul-cache-orig-2.mod")(options "")(descr ""))
+)
